@@ -1,4 +1,4 @@
-# Sales Insights using PowerBI
+# Sales Insights using PowerBI ![PowerBI](./assets/img/powerbi.svg)
 ##### Justin Ong, 16th January 2025
 
 ### Skills:
