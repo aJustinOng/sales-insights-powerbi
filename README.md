@@ -1,11 +1,8 @@
 # Sales Insights using PowerBI ![PowerBI](./assets/img/powerbi.svg)
-##### Justin Ong, 16th January 2025
 
-### Skills:
-`SQL | DAX | Data Visualization`
+**Skills:** `SQL | DAX | Data Visualization`
 
-### Tools:
-`MySQL Workbench | Microsoft Excel | PowerBI`
+**Tools:** `MySQL Workbench | Microsoft Excel | PowerBI`
 
 ##### [See my other projects!](https://github.com/aJustinOng)
 
@@ -15,7 +12,9 @@
 
 This project is based on CodeBasic's [PowerBI | Sales Insights Data Analysis](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9) project.
 
-I first used MySQL Workbench and Excel to clean and ETL a sales dataset. I then used PowerBI to analyze and visualize the revenue and profit across different regions, customers, and markets. I learned to focus on the critical areas (profit rather than revenue, etc.) that a sales manager would be interested in to answer and tackle sales problems. I used basic DAX to return specific data aggregates that could be used in visualizations. I also learned how to integrate the powerful filtering tools in PowerBI to allow my stakeholders to conveniently isolate data within specific conditions.
+In this data analysis project, I took a sales dataset and used it to create a dashboard in PowerBI. I first used MySQL Workbench and Excel to clean and ETL a sales dataset. I then used PowerBI to analyze and visualize the revenue and profit across different regions, customers, and markets. I learned to focus on the critical areas (profit rather than revenue, etc.) that a sales manager would be interested in to answer and tackle sales problems.
+
+I used basic DAX to return specific data aggregates that could be used in visualizations. I also learned how to integrate the powerful interactive tools in PowerBI to allow my stakeholders to conveniently isolate data within specific conditions. I also took additional feedback to drastically improve my initial dashboard.
 
 ## Table of contents:
 1. [Defining a Problem Statement](#1-defining-a-problem-statement)
